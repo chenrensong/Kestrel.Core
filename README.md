@@ -1,5 +1,5 @@
 # Kestrel.Core
-A cross platform web server with no external dependencies
+A cross platform web server
 
 This project is part of ASP.NET Core. support any .net 6.0 Application (include MAUI)
 
