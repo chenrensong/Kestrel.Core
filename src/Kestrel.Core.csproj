@@ -3,6 +3,11 @@
   <PropertyGroup>
     <AssemblyName>Kestrel.Core</AssemblyName>
     <RootNamespace>Kestrel.Core</RootNamespace>
+    <PackageProjectUrl>https://github.com/chenrensong/Kestrel.Core</PackageProjectUrl>
+    <RepositoryUrl>git://github.com/chenrensong/Kestrel.Core</RepositoryUrl>
+    <PackageId>Kestrel.Core</PackageId>
+    <PackageTags>Kestrel.Core</PackageTags>
+    <RepositoryType>git</RepositoryType>
     <Authors>chenrensong</Authors>
     <Description>A cross platform web server with no external dependencies.</Description>
     <TargetFramework>net6.0</TargetFramework>
